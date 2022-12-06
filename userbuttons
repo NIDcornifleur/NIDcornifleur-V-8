@@ -1,0 +1,8 @@
+#maximum of twelve buttons
+#button name,macro,button styles,other attributes
+#Button One,button1.sh,btn btn-danger btn-lg,style="width:50%" autofocus
+#Warning Button,button2.sh,btn btn-warning btn-lg,style="width:50%"
+#Success Button,button3.sh,btn btn-success btn-lg,style="width:50%"
+Blanches,blanches_max.sh
+Éteindre les lumières,led_all_off.sh
+IR,led_ir_full.sh
